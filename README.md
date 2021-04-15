@@ -4,8 +4,6 @@
 
 In this project, I used machine learning to train and then predict off of astronomical data.
 
-test
-
 #### Python Libraries used:
 
 - pandas (Used to import, store, get stats from and manipulate dataset)
